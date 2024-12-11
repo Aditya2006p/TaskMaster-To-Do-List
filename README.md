@@ -2,6 +2,9 @@
 
 **TaskMaster** is a minimalistic To-Do List web application that helps you keep track of tasks and stay organized. Built using **HTML**, **CSS**, and **JavaScript**, it offers simple functionality to add, mark as completed, and delete tasks.
 
+<img width="1446" alt="Screenshot 2024-12-11 at 6 44 02 PM" src="https://github.com/user-attachments/assets/32b74605-65b5-48d3-b20b-b590040e1c9f" />
+
+
 ---
 
 ## 🚀 Features
