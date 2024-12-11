@@ -49,7 +49,7 @@ To-Do-List/
 🖥️ Live Demo
 
 View Live Demo
-(Replace with your live GitHub Pages link)
+([GitHub Pages link](https://aditya2006p.github.io/TaskMaster-To-Do-List/))
 
 🤝 Contributions
 
@@ -60,8 +60,8 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ✨ Author
-	•	Your Name
-(Replace with your GitHub profile link)
+	•	Aditya Pandey
+[(GitHub profile link)](https://github.com/Aditya2006p)
 
 ---
 
